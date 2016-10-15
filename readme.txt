@@ -1,5 +1,3 @@
-Name: Goutham Deva
-
 Program Description: 
 
 In the “assig5” folder, there are 16 files/directories. Note: Objects files will not be included in this guide as all the descriptions would be simply compiled code from the corresponding code files. Also note that html and latex directories are part of the doxygen file that help run and store "make docs". Therfore, we will not be going over those directories.  
